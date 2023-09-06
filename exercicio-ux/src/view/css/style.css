@@ -1,0 +1,94 @@
+  @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap');
+
+  .bd {
+      background-color: #e3e3e3;
+      color: #043c74;
+      font-family: 'DM Serif Display', serif, Arial, Helvetica, sans-serif;
+  }
+
+  .text2 {
+      background-color: white;
+      width: 200px;
+      margin-left: 280px;
+      text-align: center;
+  }
+
+  .imagens {
+      height: 60vh;
+      width: 60vw;
+      border-radius: 5%;
+  }
+
+  button {
+      background-color: #043c74;
+      color: #e3e3e3;
+      border-color: #e3e3e3;
+  }
+
+  header {
+      background-color: #043c74;
+      display: flex;
+      justify-content: center;
+      height: 93px;
+  }
+
+  .links {
+      display: flex;
+      justify-content: space-around;
+  }
+
+  .logo {
+      height: 10vh;
+      width: 15vw;
+      text-decoration: none;
+  }
+
+  footer {
+      background-color: #043c74;
+      color: #e3e3e3;
+  }
+
+  .imgs {
+      display: flex;
+      justify-content: center;
+  }
+
+  .head1 {
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: space-between;
+  }
+
+  .pesquisa {
+      margin-top: 30px;
+      margin-right: 20px;
+  }
+
+  .texto {
+      text-align: center;
+  }
+
+  .head5 {
+      color: rgb(255, 255, 255);
+  }
+
+  .head5:hover {
+      color: #acbccc;
+      text-decoration: none;
+  }
+
+  .links2 {
+      display: flex;
+      gap: 15px;
+      margin-left: 20px;
+  }
+
+  .embranco {
+      height: 27px;
+      width: 700px;
+  }
+
+  .embranco2 {
+      width: 20px;
+      height: 20px;
+  }
